@@ -12,6 +12,10 @@
   - Partition (always)   
 - Adaptive Capacity
   - Total share on all partitions 
+- Security
+ - HIPPA
+ - PCI DSS
+ - token
 ## Steps
 ### Create table
 - table-name
