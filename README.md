@@ -3,10 +3,15 @@
 ## Courses
 - [ ] https://learning.edx.org/course/course-v1:AWS+OTP-AWS-D6+3T2021/
 ## Concepts
+- Capacity unit
+ - RCU
+ - WCU
 - CAP
   - Consistent (Strong read, low, more CPU)
   - Available (weak consistent, fast)
   - Partition (always)   
+- Adaptive Capacity
+  - Total share on all partitions 
 ## Steps
 ### Create table
 - table-name
