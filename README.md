@@ -4,8 +4,8 @@
 - [ ] https://learning.edx.org/course/course-v1:AWS+OTP-AWS-D6+3T2021/
 ## Concepts
 - CAP
-  - Consistent (Strong read)
-  - Available (weak consistent)
+  - Consistent (Strong read, low, more CPU)
+  - Available (weak consistent, fast)
   - Partition (always)   
 ## Steps
 ### Create table
