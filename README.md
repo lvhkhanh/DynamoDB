@@ -17,15 +17,17 @@
 - table-name
 - primary key
 - attributes
-### Query
+### Query(fast)
 - table-name
 - primary-key
-### Scan
+### Scan(low)
 - table-name
-- filter-condition
+- filter-expression
 
 ## Tools
 - Console
 - Cloud9
 - Shell
 - SDK
+## Use cases
+- key-value store: Which type of database should be used to store user session data with the highest scalability and effective way?
