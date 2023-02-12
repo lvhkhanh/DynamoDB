@@ -36,6 +36,8 @@
 ### Query(fast)
 - table-name
 - primary-key
+  - --key-condition-expression="PK = :v1 AND SK = :v2"
+- --expression-attribute-values="{':v1':'value1', ':v2':'value2'}"
 ### Scan(low)
 - table-name
 - filter-expression
