@@ -19,6 +19,7 @@
 - TTL: 48hours to auto deletion
 - Global table
 - Stream
+- Optimistic locking: read and write on the same version attribute, otherwise fail
 ## Steps
 ### Create table
 - table-name
