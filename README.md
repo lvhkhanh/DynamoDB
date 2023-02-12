@@ -4,8 +4,8 @@
 - [ ] https://learning.edx.org/course/course-v1:AWS+OTP-AWS-D6+3T2021/
 ## Concepts
 - Capacity unit
- - RCU
- - WCU
+  - RCU
+  - WCU
 - CAP
   - Consistent (Strong read, low, more CPU)
   - Available (weak consistent, fast)
@@ -16,6 +16,7 @@
  - HIPPA
  - PCI DSS
  - token
+- TTL: 48hours to auto deletion
 ## Steps
 ### Create table
 - table-name
