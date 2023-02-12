@@ -20,6 +20,9 @@
 - Global table
 - Stream
 - Optimistic locking: read and write on the same version attribute, otherwise fail
+- Secondry indexes
+  - LSI: new table difference partition key, sort key depend on base table
+  - GSI
 ## Steps
 ### Create table
 - table-name
