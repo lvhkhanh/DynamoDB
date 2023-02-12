@@ -17,6 +17,8 @@
  - PCI DSS
  - token
 - TTL: 48hours to auto deletion
+- Global table
+- Stream
 ## Steps
 ### Create table
 - table-name
