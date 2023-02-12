@@ -22,8 +22,9 @@
 - Optimistic locking: read and write on the same version attribute, otherwise fail
 - Secondry indexes
   - LSI: new table difference partition key, sort key depend on base table
-  - GSI
+  - GSI: same partition key, other sort key
 - Single table: SQL multi tables -> NoSQL single
+- DAX
 ## Steps
 ### Create table
 - table-name
