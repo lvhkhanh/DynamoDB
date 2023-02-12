@@ -41,7 +41,9 @@
 ### Scan(low)
 - table-name
 - filter-expression
-
+### UpdateItem
+- --update-expression="SET a= '100'"
+- --condition-expression='b > 10'
 ## Tools
 - Console
 - Cloud9
