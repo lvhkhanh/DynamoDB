@@ -23,6 +23,7 @@
 - Secondry indexes
   - LSI: new table difference partition key, sort key depend on base table
   - GSI
+- Single table: SQL multi tables -> NoSQL single
 ## Steps
 ### Create table
 - table-name
