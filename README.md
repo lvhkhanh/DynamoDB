@@ -1,4 +1,6 @@
 # DynamoDB
+## Certificates
+- [x] Amazon DynamoDB: Building NoSQL DatabaseDriven Applications https://www.coursera.org/account/accomplishments/certificate/TGUL6PC2D6GP [Coursera TGUL6PC2D6GP.pdf](https://github.com/lvhkhanh/DynamoDB/files/11358173/Coursera.TGUL6PC2D6GP.pdf)
 
 ## Courses
 - [x] https://learning.edx.org/course/course-v1:AWS+OTP-AWS-D6+3T2021/
